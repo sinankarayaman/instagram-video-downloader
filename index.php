@@ -1,15 +1,15 @@
+<?php
 /*
 Sinan Karayaman
 */
 
-<?php
 	require('Fonksiyonlar.php');
 ?>
 
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Php ile Döviz Kuru Çekme</title>
+	<title>instagram video downloader</title>
 	<style type="text/css">
 		
 		*{
